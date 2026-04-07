@@ -42,36 +42,11 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge">
   </a>
   <br>
-  <a href="https://g.dev/dhakalnirajan">
-    <img src="./img/gdev.svg" height="100" width="140" alt="Google Developer Profile">
-  </a>
+
 </div>
 
 <br>
 
-## 🛠️ Languages and Tools
-
-<div align="center">
-  <img src="./img/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40">
-  <img src="./img/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40">
-  <img src="./img/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">
-  <img src="./img/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40">
-  <img src="./img/c-line.svg" title="C" alt="C Programming" width="40" height="40">
-  <img src="./img/php-original.svg" title="PHP" alt="PHP Programming" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender 3D" alt="Blender 3D" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40">
-  <img src="./img/github.png" title="Github" alt="Github" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter Notebook" width="40" height="40">
-  <img src="./img/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="50" height="50">
-  <img src="./img/qiskit.gif" title="Qiskit" alt="Qiskit" width="50" height="50">
-</div>
 
 
 <!--
